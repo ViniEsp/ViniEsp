@@ -9,6 +9,12 @@
 
 ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ViniEsp&theme=gotham)
 
+<div align="center">
+  <a href="https://github.com/ViniEsp">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ViniEsp&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
