@@ -121,23 +121,18 @@
 
 
 <div align="center">
-  
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/tbfr6kzrog6gubskgoolqsx9i?si=8ab1d17bbfee482d)
 </div>
 
 
 <div align="center">
-
- [[https://spotify-github-profile.vercel.app/api/view.svg?uid=tbfr6kzrog6gubskgoolqsx9i&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=tbfr6kzrog6gubskgoolqsx9i&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)]]
+ [![Spotify][https://spotify-github-profile.vercel.app/api/view.svg?uid=tbfr6kzrog6gubskgoolqsx9i&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=tbfr6kzrog6gubskgoolqsx9i&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)]]
 
 </div>
 
 <!--
 <div align="center">
-
-
 [[https://spotify-github-profile.vercel.app/api/view.svg?uid=tbfr6kzrog6gubskgoolqsx9i&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=tbfr6kzrog6gubskgoolqsx9i&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=218694&bar_color_cover=false)]]
-
 </div>
 -->
 
