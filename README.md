@@ -125,6 +125,6 @@
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/tbfr6kzrog6gubskgoolqsx9i?si=8ab1d17bbfee482d)
 </div>
 
-
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=tbfr6kzrog6gubskgoolqsx9i&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=tbfr6kzrog6gubskgoolqsx9i&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=218694)]]
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>****
