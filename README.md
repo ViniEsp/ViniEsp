@@ -128,7 +128,7 @@
 
 <div align="center">
 
-[![Spotify][https://spotify-github-profile.vercel.app/api/view.svg?uid=tbfr6kzrog6gubskgoolqsx9i&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=tbfr6kzrog6gubskgoolqsx9i&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=218694)]]
+[![Spotify](https://spotify-github-profile.vercel.app/api/view.svg?uid=tbfr6kzrog6gubskgoolqsx9i&redirect=true)](https://spotify-github-profile.vercel.app/api/view.svg?uid=tbfr6kzrog6gubskgoolqsx9i&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=218694)
 
 </div>
 
