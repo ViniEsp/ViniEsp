@@ -14,7 +14,7 @@
    <body>
       <h2 align="center">Bio</h2>
       <p align="center">
-        Olá! Sou o Vini, tenho 24 anos.<br>
+        Olá! Sou o Vini, tenho 25 anos.<br>
         Estudante de tecnologia e apaixonado pela área, busco minha primeira oportunidade de trabalho no mercado tech. Desejo me desenvolver profissionalmente, contribuindo com valor tanto para a empresa quanto para minha carreira.
         Iniciei meus estudos na área em 2021, quando um amigo me apresentou à lógica de programação e ao Portugol. Paralelamente, busquei capacitação por meio de cursos online, como na <br><a href="https://www.devmedia.com.br/perfil/vinicius-901">DevMedia<a>.<br> Atualmente, estou participando da 17ª edição do programa Starter da <br> <a href="https://www.growdev.com.br">Growdev<a>.
         <br>
