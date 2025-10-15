@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Vinicius+Espindula;I'm+25+years+old;I+from+Brasil,+RS;I+study+FullStack+Web+Development+at+GrowDev;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Vinicius+Espindula;I'm+27+years+old;I+from+Brasil,+RS;I+study+FullStack+Web+Development+at+GrowDev;Be+Welcome!+:%29)](https://git.io/typing-svg)
 <br><br>
 
 <div align="center">  
@@ -14,7 +14,7 @@
    <body>
       <h2 align="center">Bio</h2>
       <p align="center">
-        Olá! Sou o Vini, tenho 25 anos.<br>
+        Olá! Sou o Vini, tenho 27 anos.<br>
         Estudante de tecnologia e apaixonado pela área, busco minha primeira oportunidade de trabalho no mercado tech. Desejo me desenvolver profissionalmente, contribuindo com valor tanto para a empresa quanto para minha carreira.
         Iniciei meus estudos na área em 2021, quando um amigo me apresentou à lógica de programação e ao Portugol. Paralelamente, busquei capacitação por meio de cursos online, como na <br><a href="https://www.devmedia.com.br/perfil/vinicius-901">DevMedia<a>.<br> Atualmente, estou participando da 21ª edição do programa Starter da <br> <a href="https://www.growdev.com.br">Growdev<a>.
         <br>
